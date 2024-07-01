@@ -1,4 +1,4 @@
-# C--time-
+# C--time- -Practychna№1-
 
 #include <stdio.h>
 
